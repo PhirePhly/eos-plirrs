@@ -1,0 +1,3 @@
+#!/bin/bash
+
+logger --id=$$ -p local4.error -t PLIIRs hello world
